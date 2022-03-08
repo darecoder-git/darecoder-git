@@ -229,6 +229,6 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 </div>
 
-#(https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+
 
 

@@ -116,7 +116,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 100+ Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -211,11 +211,11 @@ JavaScript               8 repos             ██░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/pravash_123" target="_blank">
+  <a href="https://www.codechef.com/users/ccme" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/pravash123/" target="_blank">
+  <a href="https://leetcode.com/lccme/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/lc.png"/></code>
   </a>
 </p>
@@ -230,7 +230,6 @@ JavaScript               8 repos             ██░░░░░░░░░�
 </div>
 
 #
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+(https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
 
 

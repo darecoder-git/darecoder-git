@@ -204,23 +204,12 @@ JavaScript               8 repos             ██░░░░░░░░░�
 </p>
 <br/>
 <br/>
-<p align="center">
-  <a href="https://www.hackerrank.com/pravash_123/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
-  </a>
-
- 
-
+<p align="center"> 
   <a href="https://www.hackerearth.com/@pravash123" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
   </a>
-
   <a href="https://www.codechef.com/users/ccme" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/lccme/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/lc.png"/></code>
   </a>
 </p>
 

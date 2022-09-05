@@ -2,12 +2,13 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  <img src="https://github.com/darecoder-git/darecoder-git.github.io/blob/main/fr.png"  style="max-width:100%;">
-
+  
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
+  <img src="https://github.com/darecoder-git/darecoder-git.github.io/blob/main/fr.png"  style="max-width:100%;">
+
 </h1>
 <br/>
 <br/>

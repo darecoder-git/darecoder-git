@@ -7,7 +7,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
-  <background href="https://github.com/darecoder-git/darecoder-git.github.io/blob/main/fr.png"  style="max-width:100%;">
+  <background="https://github.com/darecoder-git/darecoder-git.github.io/blob/main/fr.png">
 
 </h1>
 <br/>

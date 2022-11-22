@@ -27,8 +27,8 @@
 
 <p align="center">
    
- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=darecoder-git&color=brightgreen">  •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/darecoder-git?label=Followers&style=social"> •   
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=darecoder-git&color=brightgreen">   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/darecoder-git?label=Followers&style=social">   
   <img src="https://img.shields.io/github/stars/darecoder-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
@@ -52,14 +52,20 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
@@ -93,6 +99,10 @@
 
 #
 
+
+
+
+
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -110,14 +120,6 @@
 
 **🐱 My Github Data** 
 
-> 🏆 183 Contributions in the Year 2021
- > 
-> 💼 Opted to Hire
- > 
-> 📜 100+ Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -140,14 +142,7 @@ C++                      6 hrs 31 mins       ██░░░░░░░░░�
 Python                   2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
 JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
 CMake                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-
-🔥 Editors: 
-Browser                  54 hrs 58 mins      █████████████████████░░░░   84.32% 
-CLion                    6 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-PyCharm                  2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-WebStorm                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-
+       
 🐱‍💻 Projects: 
 SPOJ                     33 hrs 41 mins      █████████████░░░░░░░░░░░░   51.66% 
 CodeChef                 8 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
@@ -163,11 +158,11 @@ Windows                  65 hrs 12 mins      ███████████�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         27 repos            ██████░░░░░░░░░░░░░░░░░░░   27.0% 
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.0% 
-C++                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+Jupyter Notebook                      ██████░░░░░░░░░░░░░░░░░░░   27.0% 
+Python                                █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+C++                                   ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+HTML                                  ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+JavaScript                            ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 ```
 

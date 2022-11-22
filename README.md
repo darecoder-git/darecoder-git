@@ -23,7 +23,13 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
 <br/>
 <br/>
+<p>
+About Me
 
+I'm a Graduate student at the Northeastern University majoring in Data Science. With 3 years of experience as in solving real-world business problems across different Domains using my technical and statistical knowledge. Experienced in handling end to end data pipelines by enabling automation and neutralizing bottlenecks. I worked on projects ranging from pharmaceutical, Construction, retail, manufacturing and Stock market Forecasting.
+
+I have completed courses such as Machine Learning Certification by Stanford University and Deep Learning Specialization by Andrew Ng
+</p>
 
 <p align="center">
    

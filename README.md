@@ -45,8 +45,8 @@ Machine Learning: Linear & Logistic Regression, Decision Trees, Support Vector M
 Methods Principal Component Analysis (PCA), Independent Component Analysis (ICA), Clustering Methods
   <br/>
 Deep Learning: Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), AutoEncoders
-Cloud: GCP, AWS Sagemaker
-Please find a detailed desciprtion of my projects here - https://pravashpurkayastha.me
+Cloud: GCP, AWS Sagemaker.
+
  <br/>
 Feel free to reach out to me at: purkayasthapravash123@gmail.com
  

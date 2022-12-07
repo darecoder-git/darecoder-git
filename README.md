@@ -28,7 +28,7 @@
 <strong>About Me
   </strong>
   
-I'm a Undergraduate student at the NIT Agartala. With 2 years of experience as in solving real-world business problems across different Domains using my technical and statistical knowledge. Experienced in handling end to end data pipelines by enabling automation and neutralizing bottlenecks. I worked on projects ranging from pharmaceutical, Construction, retail, manufacturing and Stock market Forecasting.
+I'm a Undergraduate student at the NIT Agartala. With a year of experience as in solving real-world business problems across different Domains using my technical and statistical knowledge. Experienced in handling end to end data pipelines by enabling automation and neutralizing bottlenecks. I worked on projects ranging from pharmaceutical, Construction, retail, manufacturing and Stock market Forecasting.
 I have completed courses such as Machine Learning Certification by Stanford University and Deep Learning Specialization by Andrew Ng
 
 
@@ -40,7 +40,8 @@ I have completed courses such as Machine Learning Certification by Stanford Univ
   
 Languages & Frameworks: R, Python, Keras, Scikit-learn, Pytorch, TensorFlow, Pyspark, Flask, Streamlit, SQL
 Machine Learning: Linear & Logistic Regression, Decision Trees, Support Vector Machines (SVM), Ensemble
-Methods Principal Component Analysis (PCA), Independent Component Analysis (ICA), Clustering Methods Deep Learning: Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), AutoEncoders
+Methods Principal Component Analysis (PCA), Independent Component Analysis (ICA), Clustering Methods
+Deep Learning: Deep Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), AutoEncoders
 Cloud: GCP, AWS Sagemaker
 Please find a detailed desciprtion of my projects here - https://pravashpurkayastha.me
  <br/>

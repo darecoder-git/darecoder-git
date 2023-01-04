@@ -19,7 +19,7 @@
 - 👯 I'm looking for help with **Android and Web Development**.
 - 🤔 I'm open to any **Internships**.
 - 💬 Ask me anything [here](https://twitter.com/asantaatnasa_)! I am happy to help.
-- 😄 My pronouns are He/Him/His : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- 😄 My pronouns are: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ Fun fact : **Best part of the journey is : *It Ends***
 
 

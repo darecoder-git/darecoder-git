@@ -167,8 +167,8 @@ JavaScript                            ██░░░░░░░░░░░░
 <h1>
   Connect With Me
 
-
-    ___      _     ___  ___                  
+```
+  ___      _     ___  ___                  
  / _ \    | |    |  \/  |                  
 / /_\ \___| | __ | .  . | ___              
 |  _  / __| |/ / | |\/| |/ _ \             
@@ -184,6 +184,10 @@ JavaScript                            ██░░░░░░░░░░░░
 \_| |_/_| |_|\__, |\__|_| |_|_|_| |_|\__, |
               __/ |                   __/ |
              |___/                   |___/ 
+``` 
+
+
+Feel Free to share your thoughts.
              
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">

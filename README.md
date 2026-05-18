@@ -14,7 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
 
-- 🔭 I'm currently working on **Data Science and Web Development projects**.
+- 🔭 I'm currently working on **Data Science and GenAI projects**.
 - 🌱 I'm learning about **DevOps and Competitve Programming**.
 - 👯 I'm looking for help with **Android and Web Development**.
 - 🤔 I'm open to **Internships**.

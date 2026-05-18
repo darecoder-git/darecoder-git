@@ -20,7 +20,7 @@
 - 🤔 I'm open to **Internships**.
 - 💬 Ask me anything [here](https://www.linkedin.com/in/purkayasthapravash)! I am happy to help.
 - 😄 My pronouns are: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ Fun fact : **Best part of the journey is *It Ends***
+- ⚡ Fun fact : **My debugging strategy is 10% skill and 90% staring at the screen dramatically.**
 
 
 

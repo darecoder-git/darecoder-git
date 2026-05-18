@@ -18,7 +18,7 @@
 - 🌱 I'm learning about **DevOps and Competitve Programming**.
 - 👯 I'm looking for help with **Android and Web Development**.
 - 🤔 I'm open to **Internships**.
-- 💬 Ask me anything [here](https://twitter.com/asantaatnasa7)! I am happy to help.
+- 💬 Ask me anything [here](https://www.linkedin.com/in/purkayasthapravash)! I am happy to help.
 - 😄 My pronouns are: **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ Fun fact : **Best part of the journey is *It Ends***
 
